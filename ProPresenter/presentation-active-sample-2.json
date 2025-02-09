@@ -1,0 +1,366 @@
+{
+  "presentation": {
+    "id": {
+      "uuid": "4FB1478D-E24F-483D-AE06-EE52D3949746",
+      "name": "Oct 20 Teaching",
+      "index": 4294967295
+    },
+    "groups": [
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-2.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-1.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-2.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Romans 12:1",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Romans 12:1 (NIV)\r1Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship.",
+            "label": "Romans 12:1 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Romans 12:2",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Romans 12:2 (NIV)\r2Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.",
+            "label": "Romans 12:2 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-2.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "1 Corinthians 12:12-13",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "1 Corinthians 12:12-13 (NIV)\r12Just as a body, though one, has many parts, but all its many parts form one body, so it is with Christ.",
+            "label": "1 Corinthians 12:12 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "1 Corinthians 12:12-13 (NIV)\r13For we were all baptized by one Spirit so as to form one body—whether Jews or Gentiles, slave or free—and we were all given the one Spirit to drink.",
+            "label": "1 Corinthians 12:13 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-2.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-1.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-1.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-2.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "1 Corinthians 12:14-20",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "1 Corinthians 12:14-20 (NIV)\r14Even so the body is not made up of one part but of many. 15Now if the foot should say, “Because I am not a hand, I do not belong to the body,” it would not for that reason stop being part of the body.",
+            "label": "1 Corinthians 12:14 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "1 Corinthians 12:14-20 (NIV)\r16And if the ear should say, “Because I am not an eye, I do not belong to the body,” it would not for that reason stop being part of the body.",
+            "label": "1 Corinthians 12:16 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "1 Corinthians 12:14-20 (NIV)\r17If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be?",
+            "label": "1 Corinthians 12:17 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "1 Corinthians 12:14-20 (NIV)\r18But in fact God has placed the parts in the body, every one of them, just as he wanted them to be. 19If they were all one part, where would the body be? 20As it is, there are many parts, but one body.",
+            "label": "1 Corinthians 12:18 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-2.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Romans 12:3-8",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Romans 12:3-8 (NIV)\r3For by the grace given me I say to every one of you: Do not think of yourself more highly than you ought, but rather think of yourself with sober judgment, in accordance with the faith God has distributed to each of you.",
+            "label": "Romans 12:3 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Romans 12:3-8 (NIV)\r4For just as each of us has one body with many members, and these members do not all have the same function,",
+            "label": "Romans 12:4 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Romans 12:3-8 (NIV)\r5so in Christ we, though many, form one body, and each member belongs to all the others.",
+            "label": "Romans 12:5 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Romans 12:3-8 (NIV)\r6We have different gifts, according to the grace given to each of us. If your gift is prophesying, then prophesy in accordance with your faith; 7if it is serving, then serve; if it is teaching, then teach;",
+            "label": "Romans 12:6 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Romans 12:3-8 (NIV)\r8if it is to encourage, then give encouragement; if it is giving, then give generously; if it is to lead, do it diligently; if it is to show mercy, do it cheerfully.",
+            "label": "Romans 12:8 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-2.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "1 Corinthians 12:21-22",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "1 Corinthians 12:21-22 (NIV)\r21The eye cannot say to the hand, “I don’t need you!” And the head cannot say to the feet, “I don’t need you!” 22On the contrary, those parts of the body that seem to be weaker are indispensable,",
+            "label": "1 Corinthians 12:21 (NIV)",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Romans-TW-2.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      }
+    ],
+    "has_timeline": false,
+    "presentation_path": "/Users/media/Documents/ProPresenter/Libraries/Teachings/Oct 20 Teaching.pro",
+    "destination": "presentation"
+  }
+}

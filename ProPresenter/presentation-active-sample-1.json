@@ -1,0 +1,547 @@
+{
+  "presentation": {
+    "id": {
+      "uuid": "953ACB96-F8E7-4731-9D08-03D201BB4D24",
+      "name": "Praise BL",
+      "index": 4294967295
+    },
+    "groups": [
+      {
+        "name": "Verse 1",
+        "color": {
+          "red": 0.0,
+          "green": 0.46666666865348816,
+          "blue": 0.800000011920929,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "Stellar Shift Freedom - Medium - HD Triple-Wide.mp4",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I'll praise in the valley\nPraise on the mountain",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I'll praise when I'm sure\nPraise when I'm doubting ",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Verse 2",
+        "color": {
+          "red": 0.0,
+          "green": 0.3490196168422699,
+          "blue": 0.6000000238418579,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I'll praise when outnumbered\nPraise when surrounded",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "'Cause praise is the water\nMy enemies drown in",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pre Chorus",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "As long as I'm breathing\nI've got a reason to",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Chorus 1",
+        "color": {
+          "red": 0.800000011920929,
+          "green": 0.0,
+          "blue": 0.30588236451148987,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord\nOh, my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord\nOh, my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Verse 3",
+        "color": {
+          "red": 0.0,
+          "green": 0.23529411852359772,
+          "blue": 0.4000000059604645,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I'll praise when I feel it\nAnd I'll praise when I don't",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I'll praise 'cause I know\nYou're still in control",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Verse 4",
+        "color": {
+          "red": 0.0,
+          "green": 0.40784314274787903,
+          "blue": 0.7019608020782471,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "my praise is a weapon\nIt's more than a sound",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Oh, my praise is the shout\nThat brings Jericho down ",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Pre Chorus",
+        "color": null,
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "As long as I'm breathing\nI've got a reason to",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Chorus 2",
+        "color": {
+          "red": 0.6000000238418579,
+          "green": 0.0,
+          "blue": 0.23137255012989044,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord \nOh, my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "praise the Lord\nOh, my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I won't be quiet, my God is alive\nSo how could I keep it inside?",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord\nOh, my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bridge",
+        "color": {
+          "red": 0.4627451002597809,
+          "green": 0.0,
+          "blue": 0.800000011920929,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I'll praise 'cause You're sovereign\nPraise 'cause You reign",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise 'cause You rose\nand defeated the grave",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I'll praise 'cause You're faithful\nPraise 'cause You're true",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise 'cause there's nobody\ngreater than You",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I'll praise 'cause You're sovereign\npraise 'cause You reign",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise 'cause You rose\nand defeated the grave",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I'll praise 'cause You're faithful\nPraise 'cause You're true",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise 'cause there's nobody\ngreater than You",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Chorus 3",
+        "color": {
+          "red": 0.4000000059604645,
+          "green": 0.0,
+          "blue": 0.15294118225574493,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord\nOh, my soul ",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "praise the Lord\nOh, my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord\nOh, my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord\nOh, my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I won't be quiet, \nmy God is alive",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "How could I keep it inside?",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I won't be quiet \nMy God is alive ",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "How could I keep it inside?",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Tag",
+        "color": {
+          "red": 0.800000011920929,
+          "green": 0.16078431904315948,
+          "blue": 0.16078431904315948,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "I won't be quiet \nMy God is alive ",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "How could I keep it inside?",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord, Oh my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord, Oh my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Tag",
+        "color": {
+          "red": 0.800000011920929,
+          "green": 0.16078431904315948,
+          "blue": 0.16078431904315948,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "Praise the Lord, Oh my soul",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      },
+      {
+        "name": "Tag",
+        "color": {
+          "red": 0.800000011920929,
+          "green": 0.16078431904315948,
+          "blue": 0.16078431904315948,
+          "alpha": 1.0
+        },
+        "slides": [
+          {
+            "enabled": true,
+            "notes": "",
+            "text": "",
+            "label": "",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ]
+      }
+    ],
+    "has_timeline": false,
+    "presentation_path": "/Users/media/Documents/ProPresenter/Libraries/Special Events/Praise BL.pro",
+    "destination": "presentation"
+  }
+}

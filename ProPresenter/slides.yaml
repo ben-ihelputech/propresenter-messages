@@ -1,0 +1,9 @@
+---
+# List the name of all of the slides
+songs:
+  - song1
+  - song2
+slides:
+  - slide1
+  - slide2
+
