@@ -71,6 +71,33 @@ def get_message(id, check_author=True):
 
     return message
 
+@bp.route('/<int:id>/update', methods=('GET', 'POST'))
+@login_required
+def update(id):
+    message = get_message(id)
+
+    if request.method == 'POST':
+        message = request.form['message']
+        error = None
+
+        if not message:
+            error = 'Message is required.'
+
+        if error is not None:
+            flash(error)
+        else:
+            db = get_db()
+            db.execute(
+                'UPDATE message_logs SET messsage = ?'
+                ' WHERE id = ?',
+                (message, id)
+            )
+            db.commit()
+            return redirect(url_for('messages.index'))
+
+    return render_template('messages/update.html', post=message)
+
+
 @bp.route('/<int:id>/delete', methods=('POST',))
 @login_required
 def delete(id):
